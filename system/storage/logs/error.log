@@ -1,0 +1,2 @@
+2017-06-20 14:21:25 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wamp\www\opencart\mycncart-mycncart-1.5.0.1\system\library\mail.php on line 158
+2017-07-06 19:39:19 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wamp\www\opencart\mycncart-mycncart-1.5.0.1\system\library\mail.php on line 158
